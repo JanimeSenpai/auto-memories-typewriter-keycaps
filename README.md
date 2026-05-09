@@ -13,7 +13,6 @@ All 3D models of the keycaps were designed from scratch by me.
 
 To make printing and modifying as easy as possible, I am providing the following formats:
 
-* **`.stl` Files:** Standard 3D printable meshes for all keycap variations.
 * **`.3mf` Bambu Studio Print Profiles:** Meticulously calibrated print profiles specifically for Bambu Studio. These profiles are highly optimized to use very minimal supports, ensuring a clean result while keeping the printing process incredibly efficient, saving you time and material.
 * **`.shapr` CAD Source Files:** The original design files created in **Shapr3D**. I am including these so the community can easily study, modify, or remix the base designs.
 
